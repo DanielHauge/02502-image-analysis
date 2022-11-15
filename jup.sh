@@ -1,1 +1,1 @@
-docker run -it --rm -p 8888:8888 -v "D:\repo\02502-image-analysis":/home/jovyan/work jupyter/datascience-notebook
+docker run -it --rm -p 8888:8888 -v "D:\repo\02502-image-analysis":/home/jovyan/work jupyter
